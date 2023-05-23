@@ -1,5 +1,6 @@
 ### Hi, I'm Luunagda 👋
 👩 My name is Cyan.
+
 🌱 I’m currently learning web development, audiovisual, design and communication in the second year of Bachelor in the multimedia and internet.
 
 <!--
