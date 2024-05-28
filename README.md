@@ -1,7 +1,7 @@
 ### Hi, I'm Luunagda 👋
 👩 My name is Cyan.
 
-🌱 I’m currently learning web development, audiovisual, design and communication in the third year of Bachelor in the multimedia and internet.
+🌱 I'm currently learning web development, audiovisual, design and communication in the third year of a Bachelor's degree in multimedia and internet in New Caledonia.
 
 <!--
 **Luunagda/Luunagda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
